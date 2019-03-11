@@ -1,0 +1,20 @@
+.navbar {
+  /* z-index: 10000; */
+  position: absolute;
+  width: 5vw;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  /* padding: 1rem 0; */
+  border-right: 1px solid black;
+  margin: 0;
+}
+
+.nav-user {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
